@@ -17,5 +17,4 @@ We have developed a BM25 Okapi model for query-based document retrieval using co
 3. Stop word removal
 4. Tokenization
 5. Vectorization
-Our retrieval model will use BM25 on the index. From this, we collect information from each document and categorize them.![image](https://user-images.githubusercontent.com/96502110/163998604-5ec6a81a-40c4-4fc6-94eb-77185c62458e.png)
-
+Our retrieval model will use BM25 on the index. From this, we collect information from each document and categorize them.
